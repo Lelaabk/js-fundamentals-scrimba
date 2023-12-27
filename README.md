@@ -1,41 +1,21 @@
-# Learn JavaScript Fundamentals on Scrimba
+# cofae4e8d941423f2c58b41ab
 
-Welcome to the "JavaScript Fundamentals" course on Scrimba! This interactive course is designed to help you build a solid foundation in JavaScript programming. Whether you're a beginner looking to dive into the world of coding or someone seeking to strengthen your JavaScript skills, this course has got you covered.
+Quick start:
 
-## Course Overview
+```
+$ npm install
+$ npm start
+````
 
-- **Title:** JavaScript Fundamentals
-- **Platform:** [Scrimba](https://scrimba.com/)
-- **Course Link:** [JavaScript Fundamentals](https://scrimba.com/scrim/co6d6447980497dd5775ab78d)
-- **Instructor:** [Guil Hernandez](https://scrimba.com/instructors/guilh)
+Head over to https://vitejs.dev/ to learn more about using vite
+## About Scrimba
 
-## What You'll Learn
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- Understand the basics of JavaScript syntax
-- Learn about variables, data types, and operators
-- Explore control flow and loops
-- Dive into functions and their role in JavaScript
-- Gain hands-on experience with interactive coding challenges
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-## Getting Started
-
-1. Visit the course link: [JavaScript Fundamentals](https://scrimba.com/scrim/co6d6447980497dd5775ab78d)
-2. Create a Scrimba account if you don't have one.
-3. Start the course and follow along with Guil Hernandez.
-
-## Course Structure
-
-The course is divided into several modules, each focusing on a specific aspect of JavaScript. The lessons are presented in a hands-on, interactive format using Scrimba's unique coding playground.
-
-## Prerequisites
-
-No prior knowledge of JavaScript is required, making this course suitable for beginners. However, a basic understanding of programming concepts will be beneficial.
-
-## Support and Feedback
-
-If you encounter any issues during the course or have questions, feel free to use the Scrimba community forums for support. Additionally, you can provide feedback on the course content and structure.
-
-Happy coding!
-
-[Guil Hernandez](https://scrimba.com/instructors/guilh)
-
+Happy Coding!
